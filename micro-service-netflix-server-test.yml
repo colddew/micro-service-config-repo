@@ -1,2 +1,4 @@
 concurrent:
   quantity: 20
+server:
+  number: 1-2
