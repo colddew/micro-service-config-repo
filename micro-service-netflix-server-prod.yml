@@ -1,4 +1,4 @@
 concurrent:
-  quantity: 50
+  quantity: 30
 server:
   number: 1-3
