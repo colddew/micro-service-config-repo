@@ -16,6 +16,8 @@
 #
 # cluster.name: my-application
 cluster.name: es-cluster
+http.cors.allow-origin: "/.*/"
+http.cors.enabled: true
 #
 # ------------------------------------ Node ------------------------------------
 #
